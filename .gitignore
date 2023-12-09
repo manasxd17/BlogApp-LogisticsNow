@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+env/
+creds.json
+firebase-key.json
+.env
+.vscode
+venv
+temp
+application_default_credentials.json
